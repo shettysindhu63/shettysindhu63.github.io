@@ -1,0 +1,4 @@
+Sitemap: https://shettysindhu63.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: shettysindhu63.github.io

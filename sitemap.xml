@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://shettysindhu63.github.io/</loc>
+  <lastmod>2017-04-15T15:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/archive.html</loc>
+  <lastmod>2017-04-15T15:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/blog/</loc>
+  <lastmod>2017-04-15T15:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/categories/</loc>
+  <lastmod>2017-04-15T15:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/galleries/</loc>
+  <lastmod>2017-04-15T15:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/listings/</loc>
+  <lastmod>2017-04-15T15:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/pages/</loc>
+  <lastmod>2017-04-15T15:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/pages/about-me/</loc>
+  <lastmod>2017-04-15T15:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://shettysindhu63.github.io/pages/hi/</loc>
+  <lastmod>2017-04-15T15:08:00Z</lastmod>
+ </url>
+</urlset>
