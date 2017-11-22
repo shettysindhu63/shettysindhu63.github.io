@@ -137,6 +137,7 @@ NAVIGATION_LINKS = {
         ('/index.html', 'Home', 'icon-home'),
 		('https://shettysindhu63.github.io/myblog/', 'My Blog', 'icon-rss'),
         ('https://www.linkedin.com/in/shettysindhu63/', 'My LinkedIn', 'icon-linkedin'),
+        ('https://twitter.com/sindhu_63', 'My Twitter', 'icon-twitter'),
         ('https://github.com/shettysindhu63/', 'My Github', 'icon-github'),
     )
 }
